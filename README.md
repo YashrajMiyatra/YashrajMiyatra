@@ -1,31 +1,31 @@
 <h1 align="center">Hi 👋, I'm Yashraj Miyatra</h1>
-<h3 align="center">Web Developer • Laravel & PHP • ERP & Business Automation</h3>
+<h3 align="center">Software Developer • System Builder • Problem Solver</h3>
 
 <p align="center">
-  I build real-world systems that solve real-world problems.
+I design and build practical digital solutions using the right tools for the job.
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 🔭 **Currently working on**
-  - Laravel, PHP & MySQL web applications  
-  - ERP systems & internal business tools  
-  - Digital marketing & automation solutions  
+🔭 **Currently working on**
+- Building and improving web applications using modern backend and frontend technologies  
+- Designing ERP systems and internal business tools for real-world use cases  
+- Creating digital marketing, automation, and workflow-based solutions  
 
-- 🤝 **Open to collaborating on**
-  - Open-source Laravel / PHP projects  
-  - ERP systems, admin panels & dashboards  
-  - Startup ideas around tech, business & automation   
+🤝 **Open to collaborating on**
+- Open-source projects and practical software tools  
+- Business systems, admin panels, dashboards, and internal platforms  
+- Startup ideas related to technology, automation, and problem-solving  
 
-- 💬 **Ask me about**
-  - PHP, Laravel & MySQL  
-  - Web development (basic → intermediate)  
-  - Digital marketing & business tech solutions  
+💬 **Ask me about**
+- Backend development, databases, and system logic  
+- Web development from basics to intermediate level  
+- Digital marketing, automation, and tech-driven business solutions  
 
-- ⚡ **Fun fact**
-  - I learned tech to fix real-life problems — not just to write code 😄
+⚡ **Fun fact**
+- I started learning tech to solve real-life problems — not just to write code 😄
 
 ---
 
@@ -118,16 +118,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashrajMiyatra&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YashrajMiyatra&theme=dark" alt="GitHub Streak"/>
-</p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YashrajMiyatra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=YashrajMiyatra&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashrajMiyatra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
