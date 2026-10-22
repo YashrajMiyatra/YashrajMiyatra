@@ -3,7 +3,7 @@
 **Software Developer & System Builder**  
 Focused on backend architectures, ERP systems, and workflow automation.
 
-[LinkedIn](https://linkedin.com/in/yashrajmiyatra) • [Email](mailto:your.email@example.com) • [Website / Portfolio](https://yourportfolio.com)
+[LinkedIn](https://linkedin.com/in/yashraj-miyatra) • [Email](mailto:your.email@example.com) • [Website / Portfolio](https://yourportfolio.com)
 
 ---
 
