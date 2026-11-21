@@ -3,7 +3,7 @@
 **Systems & Backend Engineer**  
 Focused on high-performance distributed systems, database engines, and machine learning primitives from scratch.
 
-[GitHub](https://github.com/YashrajMiyatra) • [LinkedIn](https://linkedin.com/in/yashraj-miyatra)
+[GitHub](https://github.com/YashrajMiyatra) • [LinkedIn](https://linkedin.com/in/yashraj-miyatra) • [![Follow @YashrajMiyatra](https://img.shields.io/github/followers/YashrajMiyatra?label=Follow%20%40YashrajMiyatra&style=social)](https://github.com/YashrajMiyatra)
 
 <p align="left">
   <a href="https://github.com/YashrajMiyatra?tab=achievements"><img src="https://img.shields.io/badge/Pull%20Shark-Tier%20II%20(Silver%202x)-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Silver" /></a>
