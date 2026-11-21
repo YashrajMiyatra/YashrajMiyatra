@@ -5,6 +5,15 @@ Focused on high-performance distributed systems, database engines, and machine l
 
 [GitHub](https://github.com/YashrajMiyatra) • [LinkedIn](https://linkedin.com/in/yashraj-miyatra)
 
+<p align="left">
+  <a href="https://github.com/YashrajMiyatra?tab=achievements"><img src="https://img.shields.io/badge/Pull%20Shark-Tier%20II%20(Silver%202x)-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Silver" /></a>
+  <a href="https://github.com/YashrajMiyatra?tab=achievements"><img src="https://img.shields.io/badge/Pair%20Extraordinaire-Tier%20III%20(Gold%203x)-ffd700?style=for-the-badge&logo=github&logoColor=black" alt="Pair Extraordinaire Gold" /></a>
+  <a href="https://github.com/YashrajMiyatra?tab=achievements"><img src="https://img.shields.io/badge/Quickdraw-Verified-7ee787?style=for-the-badge&logo=github&logoColor=black" alt="Quickdraw" /></a>
+  <a href="https://github.com/YashrajMiyatra?tab=achievements"><img src="https://img.shields.io/badge/YOLO-Verified-d29922?style=for-the-badge&logo=github&logoColor=black" alt="YOLO" /></a>
+  <a href="https://github.com/YashrajMiyatra"><img src="https://img.shields.io/badge/Developer%20Program-Member-a371f7?style=for-the-badge&logo=github&logoColor=white" alt="Developer Program" /></a>
+  <a href="https://github.com/YashrajMiyatra"><img src="https://img.shields.io/badge/PRs%20Merged-25%20(100%25)-3fb950?style=for-the-badge&logo=git&logoColor=white" alt="25 PRs Merged" /></a>
+</p>
+
 ---
 
 ### 🌐 Open Source Contributions & Code Reviews
@@ -42,7 +51,7 @@ Active reviewer and contributor in core Python, database, and machine learning e
     </td>
     <td width="50%" valign="top">
       <h4>Repository & Activity Stats</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=YashrajMiyatra&show_icons=true&theme=github_dark&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=YashrajMiyatra&show_icons=true&theme=github_dark&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
