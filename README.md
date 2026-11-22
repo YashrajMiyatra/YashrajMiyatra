@@ -11,7 +11,7 @@ Focused on high-performance distributed systems, database engines, and machine l
   <a href="https://github.com/YashrajMiyatra?tab=achievements"><img src="https://img.shields.io/badge/Quickdraw-Verified-7ee787?style=for-the-badge&logo=github&logoColor=black" alt="Quickdraw" /></a>
   <a href="https://github.com/YashrajMiyatra?tab=achievements"><img src="https://img.shields.io/badge/YOLO-Verified-d29922?style=for-the-badge&logo=github&logoColor=black" alt="YOLO" /></a>
   <a href="https://github.com/YashrajMiyatra"><img src="https://img.shields.io/badge/Developer%20Program-Member-a371f7?style=for-the-badge&logo=github&logoColor=white" alt="Developer Program" /></a>
-  <a href="https://github.com/YashrajMiyatra"><img src="https://img.shields.io/badge/PRs%20Merged-25%20(100%25)-3fb950?style=for-the-badge&logo=git&logoColor=white" alt="25 PRs Merged" /></a>
+  <a href="https://github.com/YashrajMiyatra"><img src="https://img.shields.io/badge/PRs%20Merged-28%20(100%25)-3fb950?style=for-the-badge&logo=git&logoColor=white" alt="28 PRs Merged" /></a>
 </p>
 
 ---
