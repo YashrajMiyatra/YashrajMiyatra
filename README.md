@@ -19,8 +19,8 @@ Focused on high-performance distributed systems, database engines, and machine l
 ### 🌐 Open Source Contributions & Code Reviews
 
 Active reviewer and contributor in core Python, database, and machine learning ecosystems:
-* ⚡ **[@encode](https://github.com/encode)** — PR reviewer on [`encode/httpx`](https://github.com/encode/httpx) ([#3845](https://github.com/encode/httpx/pull/3845), [#3837](https://github.com/encode/httpx/pull/3837)).
-* 🛡️ **[@redis](https://github.com/redis)** — Contributor & PR reviewer on [`redis/redis-py`](https://github.com/redis/redis-py) ([#4642](https://github.com/redis/redis-py/pull/4642)).
+* ⚡ **[@encode](https://github.com/encode)** — PR reviewer on [`encode/httpx`](https://github.com/encode/httpx) ([#3856](https://github.com/encode/httpx/pull/3856), [#3845](https://github.com/encode/httpx/pull/3845), [#3837](https://github.com/encode/httpx/pull/3837)).
+* 🛡️ **[@redis](https://github.com/redis)** — Contributor & PR reviewer on [`redis/redis-py`](https://github.com/redis/redis-py) ([#4675](https://github.com/redis/redis-py/pull/4675), [#4642](https://github.com/redis/redis-py/pull/4642)).
 * 🔥 **[@pytorch](https://github.com/pytorch)** — Contributor & PR reviewer on [`pytorch/ignite`](https://github.com/pytorch/ignite) ([#3936](https://github.com/pytorch/ignite/pull/3936)).
 
 ---
@@ -51,7 +51,7 @@ Active reviewer and contributor in core Python, database, and machine learning e
     </td>
     <td width="50%" valign="top">
       <h4>Repository & Activity Stats</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=YashrajMiyatra&show_icons=true&theme=github_dark&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=YashrajMiyatra&show_icons=true&theme=github_dark&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
